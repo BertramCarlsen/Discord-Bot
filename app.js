@@ -47,4 +47,4 @@ client.on('guildMemberAdd', member => {
   member.guild.defaultChannel.send(`Welcome to the server, ${member}!`);
 });
 
-client.login('MzMxMDQ4NzAzNDcxMjU1NTUz.DDp6JA.QchehmkdKcx2fOIoerMIBmfReu0');
+client.login(TOKEN);
